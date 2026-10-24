@@ -1,0 +1,5 @@
+pillars-of-creation.webp
+  Pillars of Creation (M16, Eagle Nebula), James Webb Space Telescope NIRCam, 2022.
+  Credit: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI)
+  Source: https://esawebb.org/images/weic2216b/  (CC BY 4.0)
+  Modified: rotated 90° counterclockwise, cropped to 16:9, red channel only.
